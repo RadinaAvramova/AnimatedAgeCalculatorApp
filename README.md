@@ -1,2 +1,1 @@
-# AnimatedAgeCalculatorApp
-AnimatedAgeCalculatorApp
+# flutter_age_calculator
